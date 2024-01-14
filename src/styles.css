@@ -1,0 +1,20 @@
+.suggestions {
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  list-style-type: none;
+  padding: 0;
+}
+
+.suggestions li {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.suggestions li:hover,
+.suggestions li.active {
+  background-color: #e0e0e0;
+}
+
+.highlight {
+  font-weight: bold;
+  color: blue;
+}
