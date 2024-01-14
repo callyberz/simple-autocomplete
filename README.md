@@ -5,7 +5,7 @@ A simple autocomplete component for React written in TypeScript.
 ## Features
 
 - useDebounce hook
-- Hihglight matched text
+- Highlight matched text
 - Keyboard navigation
 
 ## Online Demo
